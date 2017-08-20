@@ -28,10 +28,7 @@ bld/
 .vs/
 # Uncomment if you have tasks that create the project's static files in wwwroot
 #wwwroot/
-<<<<<<< HEAD
 *.vcxproj*
-=======
->>>>>>> c40659ad7f4b99641db45c999fc9d37c4d65be93
 
 # MSTest test Results
 [Tt]est[Rr]esult*/
